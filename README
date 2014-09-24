@@ -9,3 +9,5 @@ http://www.fullforceapps.com/rsarduino
 
 
 Have fun and happy coding!
+
+NOTE: The most current version of the Arduino code is RSArduino.ino. RSArduino-SD.ino uses an older SD library that contains a memory leak (!).
