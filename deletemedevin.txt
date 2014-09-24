@@ -1,0 +1,6 @@
+this is a test file to make the commit more visible, delete me then
+
+git rm myfilename
+git status (make sure everything is green)
+git commit -m 'Your probably better than mine message.'
+git push
